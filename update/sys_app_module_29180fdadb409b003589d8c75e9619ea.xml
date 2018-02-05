@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Fatnecksfirstapp">82764f1adb409b003589d8c75e961930</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Inspections</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_fatnecksfirs_inspection</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_fatnecksfirs.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mike.swafford</sys_created_by>
+        <sys_created_on>2018-02-05 12:45:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>29180fdadb409b003589d8c75e9619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inspections</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fatnecksfirstapp" source="x_snc_fatnecksfirs">8a76871adb409b003589d8c75e96196f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fatnecksfirstapp">8a76871adb409b003589d8c75e96196f</sys_scope>
+        <sys_update_name>sys_app_module_29180fdadb409b003589d8c75e9619ea</sys_update_name>
+        <sys_updated_by>mike.swafford</sys_updated_by>
+        <sys_updated_on>2018-02-05 12:45:31</sys_updated_on>
+        <timeline_page/>
+        <title>Inspections</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

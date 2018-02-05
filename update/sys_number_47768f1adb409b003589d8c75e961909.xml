@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_fatnecksfirs_fatnecksfirstapp_table">x_snc_fatnecksfirs_fatnecksfirstapp_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>FAT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>mike.swafford</sys_created_by>
+        <sys_created_on>2018-02-05 12:38:31</sys_created_on>
+        <sys_id>47768f1adb409b003589d8c75e961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FAT</sys_name>
+        <sys_package display_value="Fatnecksfirstapp" source="x_snc_fatnecksfirs">8a76871adb409b003589d8c75e96196f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fatnecksfirstapp">8a76871adb409b003589d8c75e96196f</sys_scope>
+        <sys_update_name>sys_number_47768f1adb409b003589d8c75e961909</sys_update_name>
+        <sys_updated_by>mike.swafford</sys_updated_by>
+        <sys_updated_on>2018-02-05 12:38:31</sys_updated_on>
+    </sys_number>
+</record_update>

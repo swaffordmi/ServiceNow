@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_snc_fatnecksfirs_fatnecksfirstapp_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Big</label>
+            <language>en</language>
+            <name>x_snc_fatnecksfirs_fatnecksfirstapp_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>mike.swafford</sys_created_by>
+            <sys_created_on>2018-02-05 12:54:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f1a039edb409b003589d8c75e96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.swafford</sys_updated_by>
+            <sys_updated_on>2018-02-05 12:54:22</sys_updated_on>
+            <value>big</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Small</label>
+            <language>en</language>
+            <name>x_snc_fatnecksfirs_fatnecksfirstapp_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>mike.swafford</sys_created_by>
+            <sys_created_on>2018-02-05 12:54:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df1a039edb409b003589d8c75e96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.swafford</sys_updated_by>
+            <sys_updated_on>2018-02-05 12:54:22</sys_updated_on>
+            <value>small</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_snc_fatnecksfirs_fatnecksfirstapp_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>mike.swafford</sys_created_by>
+            <sys_created_on>2018-02-05 12:54:22</sys_created_on>
+            <sys_id>9b1a039edb409b003589d8c75e96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Fatnecksfirstapp" source="x_snc_fatnecksfirs">8a76871adb409b003589d8c75e96196f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fatnecksfirstapp">8a76871adb409b003589d8c75e96196f</sys_scope>
+            <sys_update_name>sys_choice_x_snc_fatnecksfirs_fatnecksfirstapp_table_category</sys_update_name>
+            <sys_updated_by>mike.swafford</sys_updated_by>
+            <sys_updated_on>2018-02-05 12:54:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

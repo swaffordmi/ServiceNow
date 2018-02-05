@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="inspector" label="Inspector" language="en" table="x_snc_fatnecksfirs_fatnecksfirstapp_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>inspector</element>
+            <help/>
+            <hint/>
+            <label>Inspector</label>
+            <language>en</language>
+            <name>x_snc_fatnecksfirs_fatnecksfirstapp_table</name>
+            <plural>Inspectors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mike.swafford</sys_created_by>
+            <sys_created_on>2018-02-05 12:54:21</sys_created_on>
+            <sys_id>cb1a039edb409b003589d8c75e961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inspector</sys_name>
+            <sys_package display_value="Fatnecksfirstapp" source="x_snc_fatnecksfirs">8a76871adb409b003589d8c75e96196f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fatnecksfirstapp">8a76871adb409b003589d8c75e96196f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_fatnecksfirs_fatnecksfirstapp_table_inspector_en</sys_update_name>
+            <sys_updated_by>mike.swafford</sys_updated_by>
+            <sys_updated_on>2018-02-05 12:54:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

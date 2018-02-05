@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Issues" max_length="40" name="x_snc_fatnecksfirs_fatnecksfirstapp_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element label="Big" sequence="0" value="big"/>
+                <element label="Small" sequence="1" value="small"/>
+            </choice>
+        </element>
+        <element label="Inspector" max_length="32" name="inspector" reference="sys_user" type="reference"/>
+    </element>
+</database>
